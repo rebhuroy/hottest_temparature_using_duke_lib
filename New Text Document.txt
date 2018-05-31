@@ -1,0 +1,83 @@
+13-12-30 =36
+13-1-08=30
+13-1-23=19
+
+
+1 Zambia
+2 17
+3 Germany
+4 40
+5 20:51
+10 jan 23,2013
+11 19.0
+7 21:51
+
+89.66666667
+
+80.19642857
+
+
+
+1=2225
+2=1421
+3=251
+4=54
+5=mia
+6=Forrest
+7=Addison
+8=Leonel
+9=1914
+13=323200
+14=1498074
+
+(7.5-.75)*10
+
+
+RESUME NUMBER:7214909
+
+
+
+
+
+
+
+
+
+
+
+
+In which year from 1880 to 2014 does the girl’s name "Genevieve" have the highest rank (over all the data files)?
+
+If there is more than one year with the highest rank, choose the earliest one.
+
+
+
+In which year from 1880 to 2014 does the boy’s name "Mich" have the highest rank (over all the data files)?
+
+If there is more than one year with the highest rank, choose the earliest one.
+1960
+
+What is the average rank of the girl’s name "Susan" over all the data files?
+
+173.51
+Give the answer to two decimal places.
+
+ 
+What is the average rank of the boy's name "Robert" over all the data files?
+
+Give the answer to two decimal places.
+10.75
+
+
+What is the total number of girls born in 1990 with names ranked higher than the girl's name "Emily" in 1990?
+
+Give the answer without any commas or decimal points.
+
+323200
+
+
+
+
+What is the total number of boys born in 1990 with names ranked higher than the boy's name "Drew" in 1990?
+1498074
+
